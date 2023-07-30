@@ -1,3 +1,9 @@
 {
-  "urls": ["https://www.klarna.com/.well-known/ai-plugin.json"]
+  "urls": [
+    "https://www.klarna.com/.well-known/ai-plugin.json",
+    "https://chat.noteable.io",
+    "https://teammait.com",
+    "https://webpilotai.com",
+    "https://askthecode.dsomok.online"
+  ]
 }
